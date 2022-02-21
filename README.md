@@ -1,5 +1,5 @@
- <h3>Olá, sou o Luís Soares! <⁄>🚀 </h3>
- <h4>Seja bem-vindo ao meu perfil! 😄</h4>
+ <h1 align="center">Olá, sou o Luís Soares! <⁄>🚀 </h1>
+ <h3 align="center">Seja bem-vindo ao meu perfil! 😄</h3>
  
 <div >
   <a href="https://github.com/Soaressluiss">
