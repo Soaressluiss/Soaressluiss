@@ -8,9 +8,8 @@
  
 </div>
  <div>
-    <img height="200" width="300"  src="https://user-images.githubusercontent.com/98182255/175817257-473fb0b9-a694-4252-a766-ab68e2449136.gif">
-
- </div>
+    <img height="200" width="300"  src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn">
+ 
  
 <div  align="center" style="display: inline_block"><br>
  <h3>Principais tecnologias que trabalho:</h3>
