@@ -1,16 +1,9 @@
 ![github-header-image (4)](https://user-images.githubusercontent.com/98182255/185675002-a53f2dc8-dbb4-4385-9629-ba37bdc8f20a.png)
-
-
-
-<h1 align="center">Olá, sou o Luís! 🚀 </h1>
- <h3 align="center">Seja bem-vindo ao meu perfil! 😄</h3>
  
 <div>
-  <a href="https://github.com/Soaressluiss">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Soaressluiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <img align="left" height="300rem" src="https://user-images.githubusercontent.com/98182255/177023141-4d04a2a6-76a1-4d1f-a79c-74ca90f1458d.gif">
 
 <div align="center">
   <h3> Principais tecnologias que trabalho:</h3>
@@ -25,8 +18,6 @@
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  
 </div>
-  
-  ##
  
 <div align="center"> 
   <h3>📩 Entre em contato 😄 📩</h3>
