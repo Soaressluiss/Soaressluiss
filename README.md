@@ -1,7 +1,5 @@
 ![github-header-image (4)](https://user-images.githubusercontent.com/98182255/185690300-93ff5879-d96f-4551-b080-7a8db4d9c405.png)
  
-<div>
- 
  # Sobre mim 😄:
  
  
@@ -32,7 +30,6 @@ Nas horas vagas, vejo animes e me exercito, além de aproveita bons momentos em 
   ![mySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
 
- 
  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
  
 <div align="center"> 
@@ -42,4 +39,6 @@ Nas horas vagas, vejo animes e me exercito, além de aproveita bons momentos em 
  
 ![Snake animation](https://github.com/Soaressluiss/Soaressluiss/blob/output/github-contribution-grid-snake.svg)
  </div>
-</div>
+ 
+ 
+![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
