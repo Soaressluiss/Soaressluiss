@@ -2,7 +2,7 @@
 
  # Sobre mim 😄:
  
- 
+________________________________________________________________
 A tecnologia hoje exerce um impacto imenso em nosso dia a dia. ⌛
 
 
@@ -13,7 +13,7 @@ Sempre estou em busca de aprender e contribuir com a comunidade de DEV. 📚💻
 
 
 Nas horas vagas, vejo animes e me exercito, além de aproveita bons momentos em família. 🍙😀🏋️‍♂️
-
+____________________________________________________________________________________________________
 
  ## Principais tecnologias que tenho afinidade 🤩💻:
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
