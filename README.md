@@ -33,7 +33,7 @@ ________________________________________________________________________________
  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
  
 <div align="center"> 
-  <h3>📩 Entre em contato 😄 📩</h3>
+  <h3>📩 Entre em contato comigo 😄 📩</h3>
   <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-soares-281589234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
