@@ -1,5 +1,5 @@
-![github-header-image (4)](https://user-images.githubusercontent.com/98182255/185690300-93ff5879-d96f-4551-b080-7a8db4d9c405.png)
- 
+![Animação typed github](https://user-images.githubusercontent.com/98182255/185724323-17de550d-436c-424f-b014-a611f0f4ac3c.gif)
+
  # Sobre mim 😄:
  
  
