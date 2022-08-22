@@ -1,11 +1,20 @@
-![Animação typed github](https://user-images.githubusercontent.com/98182255/185724323-17de550d-436c-424f-b014-a611f0f4ac3c.gif)
-
- # Sobre mim 😄:
+<div>
  
-________________________________________________________________
-#### Sempre no 220V, atrás de um filme diferente, adoro desafios que posam instigar meu conhecimento, seja estudando uma nova tecnologia ou apreendendo um novo provérbio antigo. Amo anime e tudo que vem da cultural oriental. Gosto de organização e ajudar os outros. Juntos podemos fazer coisas incríveis!
-____________________________________________________________________________________________________
+![Animação typed github](https://user-images.githubusercontent.com/98182255/185724323-17de550d-436c-424f-b014-a611f0f4ac3c.gif)
+</div>
+<div>
+ 
+ # Sobre mim: 😄
+ ____________________________________________________________________________________________________
+ 
+Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que posam instigar meu conhecimento, seja estudando uma nova tecnologia para me aprimorar ou apreendendo um novo provérbio antigo. Amo anime e tudo que vem da cultural oriental. Juntos podemos fazer coisas incríveis!❤🚀 
+ 
+ ____________________________________________________________________________________________________
+ 
+</div>
 
+<div>
+ 
  ## Principais tecnologias que tenho afinidade 🤩💻:
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,8 +29,8 @@ ________________________________________________________________________________
   ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![mySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
-
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
  
 <div align="center"> 
   <h3>📩 Entre em contato comigo 😄 📩</h3>
