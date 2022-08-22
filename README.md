@@ -3,16 +3,7 @@
  # Sobre mim 😄:
  
 ________________________________________________________________
-A tecnologia hoje exerce um impacto imenso em nosso dia a dia. ⌛
-
-
-Como desenvolvedor entendo essa responsabilidade, por isso produzo softwares de maneira consciente sobre seu impacto e lugar no mundo.
-
-
-Sempre estou em busca de aprender e contribuir com a comunidade de DEV. 📚💻
-
-
-Nas horas vagas, vejo animes e me exercito, além de aproveita bons momentos em família. 🍙😀🏋️‍♂️
+#### Sempre no 220V, atrás de um filme diferente, adoro desafios que posam instigar meu conhecimento, seja estudando uma nova tecnologia ou apreendendo um novo provérbio antigo. Amo anime e tudo que vem da cultural oriental. Gosto de organização e ajudar os outros. Juntos podemos fazer coisas incríveis!
 ____________________________________________________________________________________________________
 
  ## Principais tecnologias que tenho afinidade 🤩💻:
