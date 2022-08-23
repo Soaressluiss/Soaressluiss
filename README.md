@@ -1,6 +1,8 @@
 <div>
  
-![Animação typed github](https://user-images.githubusercontent.com/98182255/185724323-17de550d-436c-424f-b014-a611f0f4ac3c.gif)
+![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
+
+ 
 </div>
 <div>
  
