@@ -32,7 +32,7 @@ Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que pos
   ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 </div>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
  
 <div align="center"> 
   <h3>📩 Entre em contato comigo 😄 📩</h3>
