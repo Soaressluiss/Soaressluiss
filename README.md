@@ -28,8 +28,7 @@ Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que pos
  
  ## Tecnologias que estou Estudando 📚😀💻:
   ![Material IU](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Test Library](https://img.shields.io/badge/react%20testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
  
 </div>
 <img align="left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -46,3 +45,5 @@ Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que pos
  
  
 ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
+
+![Profile views](https://gpvc.arturio.dev/Soaressluiss)
