@@ -41,9 +41,13 @@ Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que pos
 <!-- ![Snake animation](https://github.com/Soaressluiss/Soaressluiss/blob/output/github-contribution-grid-snake.svg)
  </div> -->
  
+ <div align="left">
+  
+  ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
+  
+ </div>
  
  
- 
-![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
 
-![Profile views](https://gpvc.arturio.dev/Soaressluiss)
+
+<!-- ![Profile views](https://gpvc.arturio.dev/Soaressluiss) -->
