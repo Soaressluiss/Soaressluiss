@@ -9,7 +9,7 @@
  # Sobre mim: 😄
  ____________________________________________________________________________________________________
  
-Sempre no 220V, atrás de um filme ou aventura diferente, adoro desafios que posam instigar meu conhecimento, seja estudando uma nova tecnologia para me aprimorar ou apreendendo um novo provérbio antigo. Amo anime e tudo que vem da cultural oriental. Juntos podemos fazer coisas incríveis!❤🚀 
+#### Desenvolvedor Front-end apaixonado por tecnologia e sempre em busca de novos desafios para expandir minhas habilidades em React e JavaScript. Quando não estou escrevendo código, eu estou assistindo animes ou explorando novas séries de animação. Estou em constante busca de aprender mais e enfrentar novos projetos, sempre com determinação e perseverança. Se você quer trabalhar com um desenvolvedor criativo e comprometido, não hesite em entrar em contato.❤🚀 
  
  ____________________________________________________________________________________________________
  
