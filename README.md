@@ -9,7 +9,12 @@
  # Sobre mim: 😄
  ____________________________________________________________________________________________________
  
-#### Desenvolvedor Front-end apaixonado por tecnologia e sempre em busca de novos desafios para expandir minhas habilidades em React e JavaScript. Quando não estou escrevendo código, eu estou assistindo animes ou explorando novas séries de animação. Estou em constante busca de aprender mais e enfrentar novos projetos, sempre com determinação e perseverança. Se você quer trabalhar com um desenvolvedor criativo e comprometido, não hesite em entrar em contato.❤🚀 
+Olá, sou o Luís!
+> * Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
+> * Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 - atual.
+> * No momento focado na biblioteca React.Js e seu ecossistema.
+> * Hobby: ver animes, desenhar e andar de bike.
+> * Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
  
  ____________________________________________________________________________________________________
  
