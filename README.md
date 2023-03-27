@@ -29,7 +29,7 @@
  
  ## Tecnologias que estou Estudando 📚😀💻:
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Test Library](https://img.shields.io/badge/react%20testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+  ![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 </div>
 <img align="left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
