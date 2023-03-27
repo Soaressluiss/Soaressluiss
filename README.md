@@ -52,6 +52,9 @@ Olá, sou o Luís!
   
   ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
   
+  
+  
+  ![ver](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
  </div>
  
  
