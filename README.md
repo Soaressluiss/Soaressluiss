@@ -1,27 +1,28 @@
 <div>
  
-![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
+  ![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
 
- 
 </div>
 
-<div>
+<div align="left">
  
- # Sobre mim: 😄
- ____________________________________________________________________________________________________
- 
-Olá, sou o Luís!
-> * 👨‍💻 Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
-> * 🤝🏻 Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 - atual.
-> * ⚛ No momento focado na biblioteca React.Js e seu ecossistema.
-> * 🎨 Hobbys: ver animes, desenhar, malhar e andar de bike.
-> * 🎯 Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
- 
- ____________________________________________________________________________________________________
- 
+   <h1 align='center'> Sobre mim: 😄 </h1>
+
+   ### Olá, sou o Luís!
+
+   ____________________________________________________________________________________________________
+
+  > * 👨‍💻 Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
+  > * 🤝🏻 Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 -     atual.
+  > * ⚛ No momento, focado na biblioteca React.Js e seu ecossistema.
+  > * 🎨 Hobbys: ver animes, desenhar, malhar e andar de bike.
+  > * 🎯 Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
+
+   ____________________________________________________________________________________________________
+
 </div>
 
-<div>
+<div align="center">
  
  ## Principais tecnologias que tenho afinidade 🤩💻:
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,9 +39,14 @@ Olá, sou o Luís!
   ![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 </div>
-<img align="left" height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
+ 
+</div>
  
 <div align="center"> 
+ 
   <h3>📩 Entre em contato comigo 😄 📩</h3>
   <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/LuisSoaresDeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -51,10 +57,6 @@ Olá, sou o Luís!
  <div align="center">
   
   ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
-  
-  
-  
-  ![ver](https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
  </div>
  
  
