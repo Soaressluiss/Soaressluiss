@@ -4,17 +4,18 @@
 
  
 </div>
+
 <div>
  
  # Sobre mim: 😄
  ____________________________________________________________________________________________________
  
 Olá, sou o Luís!
-> * Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
-> * Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 - atual.
-> * No momento focado na biblioteca React.Js e seu ecossistema.
-> * Hobby: ver animes, desenhar e andar de bike.
-> * Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
+> * 👨‍💻 Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
+> * 🤝🏻 Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 - atual.
+> * ⚛ No momento focado na biblioteca React.Js e seu ecossistema.
+> * 🎨 Hobbys: ver animes, desenhar, malhar e andar de bike.
+> * 🎯 Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
  
  ____________________________________________________________________________________________________
  
