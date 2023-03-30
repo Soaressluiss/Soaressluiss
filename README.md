@@ -1,4 +1,5 @@
 <div>
+  <h1 align='center'> Seja bem-vindo!</h1>
  
   ![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
 
@@ -6,17 +7,15 @@
 
 <div align="left">
  
-   <h1 align='center'> Sobre mim: 😄 </h1>
-
-   ### Olá, sou o Luís!
-
+  <h2 align='center'> Sobre mim: 😄 </h2>
+ 
    ____________________________________________________________________________________________________
 
-  > * 👨‍💻 Formação: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
-  > * 🤝🏻 Experiência - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - Fev 2023 -     atual.
-  > * ⚛ No momento, focado na biblioteca React.Js e seu ecossistema.
-  > * 🎨 Hobbys: ver animes, desenhar, malhar e andar de bike.
-  > * 🎯 Objetivo Pessoal: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
+  > * 👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
+  > * 🤝🏻 **Experiência** - Voluntariado: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - **Fev 2023 -     atual**.
+  > * 🎨  **Hobbys**: ver animes, desenhar, malhar e andar de bike.
+  > * 🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
+  > * ⚛ Focado na biblioteca React.Js e seu ecossistema.
 
    ____________________________________________________________________________________________________
 
@@ -59,4 +58,5 @@
   ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
  </div>
  
+
  
