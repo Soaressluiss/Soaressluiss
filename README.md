@@ -4,6 +4,15 @@
 
 </div>
 
+<br>
+<div> 
+ 
+ > <h3>Contatos 📩</h3> <br>
+ > <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ > <a href="https://www.linkedin.com/in/LuisSoaresDeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <div align="center">
+
 <div align="left">
  
   <h2 align='center'> Sobre mim: 😄 </h2>
@@ -43,19 +52,12 @@
  
 </div>
  
-<div align="center"> 
- 
-  <h3>📩 Entre em contato comigo 😄 📩</h3>
-  <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/LuisSoaresDeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
 <!-- ![Snake animation](https://github.com/Soaressluiss/Soaressluiss/blob/output/github-contribution-grid-snake.svg)
  </div> -->
- 
- <div align="center">
   
-  ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif)
- </div>
+ <!-- ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif) -->
+ 
  
 
  
