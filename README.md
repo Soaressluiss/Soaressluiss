@@ -1,5 +1,4 @@
 <div>
-  <h1 align='center'> Seja bem-vindo!</h1>
  
   ![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
 
@@ -11,11 +10,10 @@
  
    ____________________________________________________________________________________________________
 
-  > * 👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/).
-  > * 🤝🏻 **Experiência - Voluntariado**: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - **Maio 2023 -     atual**.
-  > * 🎨  **Hobbys**: ver animes, desenhar, malhar e andar de bike.
-  > * 🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev Fullstack.
-  > * ⚛ Focado na biblioteca React.Js e seu ecossistema.
+  >  👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/). <br> <br>
+  >  🤝🏻 **Experiência - Voluntariado**: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - **Maio 2023 -     atual**. <br> <br>
+  >  🎨  **Hobbys**: ver animes, desenhar, malhar e andar de bike. <br> <br>
+  >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev web e mobile. <br> <br>
 
    ____________________________________________________________________________________________________
 
@@ -31,6 +29,7 @@
  ![Material IU](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
  ![styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![React Hoook Form](https://img.shields.io/badge/react%20hook%20Form-EC5990?style=for-the-badge&logo=react%20hook%20form&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
