@@ -20,7 +20,7 @@
    ____________________________________________________________________________________________________
 
   >  👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/). <br> <br>
-  >  🤝🏻 **Experiência - Voluntariado**: Atuando como Dev Front-End em um dos projetos da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) - **Abril 2023 -     atual**. <br> <br>
+  >  🤝🏻 **Experiência - Voluntariado**: Atuando como Moderador da Comunidade do Discord da [SouJunior Lab](https://www.linkedin.com/showcase/soujunior-lab/) e como Dev Front-End em um dos projetos da comunidade - [Routinely](https://github.com/RoutinelyOrganization)  - **Abril 2023 -     atual**. <br> <br>
   >  🎨  **Hobbys**: ver animes, desenhar, malhar e andar de bike. <br> <br>
   >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev web e mobile. <br> <br>
 
@@ -34,7 +34,9 @@
  ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Material IU](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
  ![styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -42,8 +44,9 @@
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-A24955?style=for-the-badge&logo=Jest&logoColor=white)
+  ![React Test Library](	https://img.shields.io/badge/react%20testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+  
  
 </div>
 
