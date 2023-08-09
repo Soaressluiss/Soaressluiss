@@ -41,6 +41,7 @@
  ![styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![React Hoook Form](https://img.shields.io/badge/react%20hook%20Form-EC5990?style=for-the-badge&logo=react%20hook%20form&logoColor=white)
+ ![Axios](https://img.shields.io/badge/Axios-0088FF?style=for-the-badge&logo=axios&logoColor=white)
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
