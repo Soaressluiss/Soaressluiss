@@ -20,8 +20,8 @@
    ____________________________________________________________________________________________________
 
   >  👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/). <br> <br>
-  >  🤝🏻 **Experiência - Voluntariado**: Atuando como Moderador no Discord da [SouJunior Lab](https://www.linkedin.com/company/soujunior-labs/) e como Dev Front-End em um dos projetos da comunidade - [Routinely](https://github.com/RoutinelyOrganization)  - **Abril 2023 -     atual**. <br> <br>
-  >  🎨  **Hobbys**: ver animes, desenhar, malhar e andar de bike. <br> <br>
+  >  🤝🏻 **Experiência - Voluntariado**: Atuo como um dos ADMs no Discord da [SouJunior Lab](https://www.linkedin.com/company/soujunior-labs/) fomentados melhorias para a comunidade e como Dev Front-End em um dos projetos do servidor - [Routinely](https://github.com/RoutinelyOrganization)  - **Abril 2023 -     atual**. <br> <br>
+  >  🎨  **Hobbys**: ver animes, desenhar, malhar. <br> <br>
   >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev web e mobile. <br> <br>
 
    ____________________________________________________________________________________________________
