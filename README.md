@@ -46,7 +46,7 @@
  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![React Test Library](	https://img.shields.io/badge/react%20testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+ ![GitHub Pages](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
