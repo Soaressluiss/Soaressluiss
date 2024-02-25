@@ -22,7 +22,7 @@
   >  👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/). <br> <br>
   >  🤝🏻 **Experiência - Voluntariado**: Atuo como um dos ADMs no Discord da [SouJunior Labs](https://www.linkedin.com/company/soujunior-labs/) fomentados melhorias para a comunidade e como Dev Front-End em um dos projetos do servidor - [Routinely](https://github.com/RoutinelyOrganization)  - **Abril 2023 -     atual**. <br> <br>
   >  🎨  **Hobbys**: ver animes, desenhar, malhar. <br> <br>
-  >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Dev web e mobile. <br> <br>
+  >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Desenvolvedor Front-End. <br> <br>
 
    ____________________________________________________________________________________________________
 
@@ -39,6 +39,7 @@
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Material IU](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
  ![styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![Radix UI](https://img.shields.io/badge/radix--ui-343434?style=for-the-badge&logo=circleci&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![React Hoook Form](https://img.shields.io/badge/react%20hook%20Form-EC5990?style=for-the-badge&logo=react%20hook%20form&logoColor=white)
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -48,6 +49,7 @@
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+ ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
