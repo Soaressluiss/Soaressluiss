@@ -50,6 +50,7 @@
  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+ ![ZOD](https://img.shields.io/badge/Zod-466BB0?style=for-the-badge&logo=Zod&logoColor=white)
  
  ## Tecnologias que estou Estudando 📚😀💻:
  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
