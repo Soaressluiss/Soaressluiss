@@ -39,6 +39,7 @@
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Material IU](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
  ![styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![SchadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
  ![Radix UI](https://img.shields.io/badge/radix--ui-343434?style=for-the-badge&logo=circleci&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![React Hoook Form](https://img.shields.io/badge/react%20hook%20Form-EC5990?style=for-the-badge&logo=react%20hook%20form&logoColor=white)
