@@ -43,7 +43,9 @@
  ![SchadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
  ![Radix UI](https://img.shields.io/badge/radix--ui-343434?style=for-the-badge&logo=circleci&logoColor=white)
  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+ ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white)
  ![React Hoook Form](https://img.shields.io/badge/react%20hook%20Form-EC5990?style=for-the-badge&logo=react%20hook%20form&logoColor=white)
+ ![ZOD](https://img.shields.io/badge/Zod-466BB0?style=for-the-badge&logo=Zod&logoColor=white)
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
  ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -52,7 +54,7 @@
  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
- ![ZOD](https://img.shields.io/badge/Zod-466BB0?style=for-the-badge&logo=Zod&logoColor=white)
+
  
  ## Tecnologias que estou Estudando 📚😀💻:
  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
