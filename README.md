@@ -18,7 +18,7 @@ I have worked on project in the **financial sector**, integrating services like 
 #### 👨‍💻 About Me
 
 - 🔭 I’m currently studying **Java** and **Spring Boot** to become a Fullstack Developer  
-- 🎓 I’m pursuing a degree in **Sistemas para Internet** at **UESPI**  
+- 🎓 I’m pursuing a degree in **Internet Systems** at **UESPI**  
 - 👨‍👦‍👦 I volunteered as an admin at [SouJunior Labs](https://www.linkedin.com/company/soujunior-labs/), supporting tech professionals in open source projects  
 - 🌐 I create accessible, reusable interfaces from Figma prototypes
 - ⚡ Fun fact i like indie games
