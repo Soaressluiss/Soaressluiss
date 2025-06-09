@@ -1,38 +1,38 @@
-<div>
+
+<!-- <div>
  
   ![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
 
 </div>
 
-<br>
-<div> 
+<br> -->
+
+
+ ### Hi there 👋
+
+I'm a Frontend Developer with over 2 years of experience working with **JavaScript**, **TypeScript**, and **React (Next.js)**.
+
+I have worked on project in the **financial sector**, integrating services like **PIX**, **boleto payments**, **TED**, and **DDA**, always focused on performance, security, and usability.
+
+
+#### 👨‍💻 About Me
+
+- 🔭 I’m currently studying **Java** and **Spring Boot** to become a Fullstack Developer  
+- 🎓 I’m pursuing a degree in **Sistemas para Internet** at **UESPI**  
+- 👨‍👦‍👦 I volunteered as an admin at [SouJunior Labs](https://www.linkedin.com/company/soujunior-labs/), supporting tech professionals in open source projects  
+- 🌐 I create accessible, reusable interfaces from Figma prototypes
+- ⚡ Fun fact i like indie games
  
- > <h3>Contatos 📩</h3> <br>
+#### 📫 How to reach me
+
  > <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- > <a href="https://www.linkedin.com/in/LuisSoaresDeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ > <a href="https://www.linkedin.com/in/luissoaresdeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <div align="center">
 
-<div align="left">
- 
-  <h2 align='center'> Sobre mim: 😄 </h2>
- 
-   ____________________________________________________________________________________________________
 
-  >  👨‍💻 **Formação**: Fullstack com ênfase em desenvolvimento Front-End pelo [Desenvolve 2022](https://desenvolve.grupoboticario.com.br/). <br> <br>
-  >  🤝🏻 **Experiência - Voluntariado**: Atuo como um dos ADMs no Discord da [SouJunior Labs](https://www.linkedin.com/company/soujunior-labs/) fomentados melhorias para a comunidade.
+#### 🛠️ Technologies & Tools
 
-  >  🎨  **Hobbys**: ver animes, desenhar, malhar. <br> <br>
-  >  🎯 **Objetivo Pessoal**: Crescer na área dentro de uma empresa com uma cultura inovadora e se consolidar como Desenvolvedor Front-End. <br> <br>
-
-   ____________________________________________________________________________________________________
-
-</div>
-
-<div align="center">
- 
- ## Principais tecnologias que tenho afinidade 🤩💻:
- ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Typerscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -54,18 +54,18 @@
  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Projects-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-
- 
- ## Tecnologias que estou Estudando 📚😀💻:
- ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
-</div>
 
-<div align="center">
+
+<div>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
  
 </div>
+
+
+
+<div> 
  
 
 <!-- ![Snake animation](https://github.com/Soaressluiss/Soaressluiss/blob/output/github-contribution-grid-snake.svg)
