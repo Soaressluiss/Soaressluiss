@@ -59,8 +59,7 @@ I have worked on project in the **financial sector**, integrating services like 
 
 
 <div>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=tokyonight"/>
- 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
