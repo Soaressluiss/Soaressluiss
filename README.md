@@ -12,7 +12,7 @@
 
 I'm a Frontend Developer with over 2 years of experience working with **JavaScript**, **TypeScript**, and **React (Next.js)**.
 
-I have worked on project in the **financial sector**, integrating services like **PIX**, **boleto payments**, **TED**, and **DDA**, always focused on performance, security, and usability.
+I have worked on project in the **financial services** and **mobility projects**, integrating services like **PIX**, **boleto payments**, **TED**, **DDA**, **geolocation**, **communication** (webSockets) always focused on performance, security, and usability.
 
 
 #### 👨‍💻 About Me
@@ -59,7 +59,7 @@ I have worked on project in the **financial sector**, integrating services like 
 
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soaressluiss&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaressluiss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
