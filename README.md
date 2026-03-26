@@ -1,34 +1,26 @@
 
-<!-- <div>
- 
-  ![Animação typed github](https://user-images.githubusercontent.com/98182255/186050921-6c4ff98d-14db-4b0e-b707-8a04b59e1190.gif)
-
-</div>
-
-<br> -->
 
 
- ### Hi there 👋
+# 👋 Hi, I'm Luís Soares
 
-I'm a Frontend Developer with over 2 years of experience working with **JavaScript**, **TypeScript**, and **React (Next.js)**.
+🚀 Front-End Developer focused on **React, Next.js and TypeScript**
 
-I have worked on project in the **financial services** and **mobility projects**, integrating services like **PIX**, **boleto payments**, **TED**, **DDA**, **geolocation**, **communication** (webSockets) always focused on performance, security, and usability.
+I build modern, scalable and high-performance web applications, with real experience in **financial systems** and **real-time applications**.
 
+## 🧑‍💻 About Me
 
-#### 👨‍💻 About Me
+- 💻 +2 years of experience with **React, Next.js, JavaScript and TypeScript**
+- 💳 Experience with **financial integrations**: PIX, boleto, TED, DDA
+- ⚡ Built features using **WebSockets (real-time)** and **geolocation**
+- 🎯 Focus on **performance, UI/UX and scalable architecture**
+- 🎓 Studying **Java + Spring Boot** to strengthen backend knowledge
+- 🤝 Former volunteer at [**SouJunior Labs**](https://github.com/SouJunior) (community & open source projects)
 
-- 🔭 I’m currently studying **Java** and **Spring Boot** to become a Fullstack Developer  
-- 🎓 I’m pursuing a degree in **Internet Systems** at **UESPI**  
-- 👨‍👦‍👦 I volunteered as an admin at [SouJunior Labs](https://www.linkedin.com/company/soujunior-labs/), supporting tech professionals in open source projects  
-- 🌐 I create accessible, reusable interfaces from Figma prototypes
-- ⚡ Fun fact i like indie games
- 
 #### 📫 How to reach me
 
  > <a href = "mailto:luissoaress.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  > <a href="https://www.linkedin.com/in/luissoaresdeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-
 
 #### 🛠️ Technologies & Tools
 
@@ -58,19 +50,17 @@ I have worked on project in the **financial services** and **mobility projects**
  ![Tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
+## 📊 GitHub Stats
+
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaressluiss&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-
-<div> 
+--- 
+<div>
  
-
-<!-- ![Snake animation](https://github.com/Soaressluiss/Soaressluiss/blob/output/github-contribution-grid-snake.svg)
- </div> -->
-  
- <!-- ![cat-work](https://user-images.githubusercontent.com/98182255/185693548-9132020e-e25a-4eb6-ab89-4bb775f8e853.gif) -->
+💡 *Always learning. Always building.*
+</div>
  
  
 
