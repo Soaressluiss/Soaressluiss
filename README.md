@@ -3,15 +3,13 @@
 
 # 👋 Hi, I'm Luís Soares
 
-🚀 Front-End Developer focused on **React, Next.js and TypeScript**
+🚀 Front-End Developer focused on **React, Angular and TypeScript**
 
-I build modern, scalable and high-performance web applications, with real experience in **financial systems** and **real-time applications**.
 
 ## 🧑‍💻 About Me
 
 - 💻 +2 years of experience with **React, Next.js, JavaScript and TypeScript**
 - 💳 Experience with **financial integrations**: PIX, boleto, TED, DDA
-- ⚡ Built features using **WebSockets (real-time)** and **geolocation**
 - 🎯 Focus on **performance, UI/UX and scalable architecture**
 - 🎓 Studying **Java + Spring Boot** to strengthen backend knowledge
 - 🤝 Former volunteer at [**SouJunior Labs**](https://github.com/SouJunior) (community & open source projects)
